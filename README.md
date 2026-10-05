@@ -85,6 +85,9 @@ I design, build, and deploy **high-performance full-stack web applications** and
 ### 📫 Connect With Me
 
 <p align="left">
+  <a href="https://carlosmaina-org.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-carlosmaina--org.vercel.app-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/carlos-maina-307033360" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Carlos_Maina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -100,6 +103,7 @@ I design, build, and deploy **high-performance full-stack web applications** and
 </p>
 
 <p align="left">
+  <b>🌐 Portfolio:</b> <a href="https://carlosmaina-org.vercel.app">carlosmaina-org.vercel.app</a><br/>
   <b>📧 Email:</b> <a href="mailto:softwarewebdevelopers1@gmail.com">softwarewebdevelopers1@gmail.com</a><br/>
   <b>📞 Phone / WhatsApp:</b> <a href="tel:+254757475316">0757 475 316</a> <i>(+254 757 475 316)</i><br/>
   <b>💼 LinkedIn:</b> <a href="https://www.linkedin.com/in/carlos-maina-307033360">carlos-maina-307033360</a>
