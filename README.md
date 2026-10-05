@@ -1,4 +1,4 @@
-# Hi there, I'm Carlos Maina 👋
+# Hi there, I'm Carlos Maina Wanjiku 👋
 
 ### 🚀 Full-Stack Software Engineer & Systems Architect
 
@@ -89,11 +89,20 @@ I design, build, and deploy **high-performance full-stack web applications** and
     <img src="https://img.shields.io/badge/LinkedIn-Carlos_Maina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:softwarewebdevelopers1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-softwarewebdevelopers1@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="tel:+254757475316">
+    <img src="https://img.shields.io/badge/Call-0757_475_316-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+  <a href="https://github.com/softwarewebdevelopers1-byte" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-softwarewebdevelopers1--byte-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="left">
+  <b>📧 Email:</b> <a href="mailto:softwarewebdevelopers1@gmail.com">softwarewebdevelopers1@gmail.com</a><br/>
+  <b>📞 Phone / WhatsApp:</b> <a href="tel:+254757475316">0757 475 316</a> <i>(+254 757 475 316)</i><br/>
+  <b>💼 LinkedIn:</b> <a href="https://www.linkedin.com/in/carlos-maina-307033360">carlos-maina-307033360</a>
 </p>
 
 ---
@@ -103,4 +112,4 @@ I design, build, and deploy **high-performance full-stack web applications** and
   <img src="https://img.shields.io/github/followers/softwarewebdevelopers1-byte?label=Followers&style=social" alt="Followers" />
 </p>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/softwarewebdevelopers1-byte">Carlos Maina</a> — Building scalable systems, one commit at a time.</i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/softwarewebdevelopers1-byte">Carlos Maina Wanjiku</a> — Building scalable systems, one commit at a time.</i></p>
