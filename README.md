@@ -26,8 +26,8 @@ I design, build, and deploy high-performance full-stack web applications and mic
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlos-maina&show_icons=true&theme=radial" alt="Carlos Maina's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-maina&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=softwarewebdevelopers1-byte&show_icons=true&theme=radial" alt="Carlos Maina's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=softwarewebdevelopers1-byte&layout=compact&theme=radial" alt="Top Languages" width="48%" />
 </p>
 
 ---
