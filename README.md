@@ -71,13 +71,11 @@ I design, build, and deploy **high-performance full-stack web applications** and
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=softwarewebdevelopers1-byte&show_icons=true&theme=radial&hide_border=true" alt="Carlos Maina's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=softwarewebdevelopers1-byte&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=softwarewebdevelopers1-byte&theme=radial&hide_border=true" alt="GitHub Streak" width="70%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=softwarewebdevelopers1-byte&show_icons=true&theme=radial&hide_border=true" alt="Carlos Maina's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=softwarewebdevelopers1-byte&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
