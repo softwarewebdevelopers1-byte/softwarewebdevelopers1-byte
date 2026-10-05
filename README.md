@@ -88,7 +88,7 @@ I design, build, and deploy **high-performance full-stack web applications** and
   <a href="https://www.linkedin.com/in/carlos-maina-307033360" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Carlos_Maina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:softwarewebdevelopers1@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://your-portfolio.com" target="_blank">
